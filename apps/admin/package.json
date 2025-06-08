@@ -1,0 +1,16 @@
+{
+  "name": "@my-store/admin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "vercel-build": "nx build @my-store/admin"
+  },
+  "dependencies": {
+    "lucide-react": "^0.513.0",
+    "next": "~15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-redux": "^9.2.0",
+    "recharts": "^2.15.3"
+  }
+}
