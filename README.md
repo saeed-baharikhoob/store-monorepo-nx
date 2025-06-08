@@ -65,7 +65,7 @@ This project follows the Nx monorepo structure with:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/techstore-monorepo.git
+git clone https://github.com/saeed-baharikhoob/store-monorepo-nx
 cd techstore-monorepo
 ```
 
@@ -184,15 +184,6 @@ Projects are referenced using their full names with the `@` prefix:
 - `@my-store/store` - Redux store library
 
 
-### Nx Configuration
-The `nx.json` file contains global Nx configuration. Key settings include:
-- Target dependencies
-- Cache settings
-- Default project configuration
-
-### TypeScript Configuration
-- `tsconfig.base.json`: Base configuration for all projects
-- Each project has its own `tsconfig.json` extending the base
 
 ## 🔍 Troubleshooting
 
@@ -215,17 +206,7 @@ The `nx.json` file contains global Nx configuration. Key settings include:
   - Clear Nx cache: `yarn nx reset`
   - Clear Next.js cache: `rm -rf apps/*/next`
 
-## 📈 Performance
 
-### Build Optimization
-- Nx computation caching for faster rebuilds
-- Next.js automatic code splitting
-- Optimized production builds with tree shaking
-
-### Development Experience
-- Fast refresh with HMR
-- TypeScript incremental compilation
-- Parallel task execution
 
 ## 🚢 Deployment
 
