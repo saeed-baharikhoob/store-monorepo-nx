@@ -20,7 +20,7 @@ This project is a sample implementation of a monorepo architecture using Nx, sho
 
 ### Admin Dashboard (`apps/admin`)
 - **Analytics Dashboard**: Sales overview with interactive charts
-- **Product Management**: Full CRUD operations for products
+- **Product Management**: Search for products
 
 ## 🚀 Live Demo
 
