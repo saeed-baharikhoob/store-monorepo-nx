@@ -26,8 +26,8 @@ This project is a sample implementation of a monorepo architecture using Nx, sho
 
 | Application | Live Demo | Description |
 |------------|-----------|-------------|
-| **🛍️ Storefront** | [**🔗 View Demo**](https://monorepo-nx-my-store.vercel.app) | Product catalog with shopping cart |
-| **⚙️ Admin Panel** | [**🔗 View Demo**](https://monorepo-nx-my-store-admin.vercel.app) | Product management dashboard |
+| **🛍️ Storefront** | [**🔗 View Demo**](https://store-monorepo-nx-my-store.vercel.app/) | Product catalog with shopping cart |
+| **⚙️ Admin Panel** | [**🔗 View Demo**](https://store-monorepo-nx-admin.vercel.app/) | Product management dashboard |
 
 
 ## 🏗️ Architecture
